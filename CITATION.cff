@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Proyecto Final: Sistema endocrino, Hashimoto (Tiroiditis
+  crónica)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Lorena Lizel '
+    family-names: Castañeda Nieblas
+    affiliation: TecNM/ IT Tijuana
+    email: L23210695@tectijuana.edu.mx
+  - given-names: Carlos Samuel
+    family-names: 'Preciado Amezquit '
+    affiliation: TecNM/ IT Tijuana
+    email: LC19211840@tectijuana.edu.mx
+  - given-names: Tessa
+    family-names: 'Rincon Jimenez '
+    affiliation: TecNM/ IT Tijuana
+    email: L22210795@tectijuana.edu.mx
+  - given-names: 'Nicole '
+    family-names: Vazquez Alvear
+    email: LC20210923@tectijuana.edu.mx
+    affiliation: TecNM/ IT Tijuana
+repository-code: 'https://github.com/TessRJ/MSFPF'
+keywords:
+  - Hashimoto's thyroiditis
+  - Hypothalamic-pituitary-thyroid axis
+  - Electrical analogy
+  - Physiological modeling
+  - 'Second-order circuit   '
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-26'
